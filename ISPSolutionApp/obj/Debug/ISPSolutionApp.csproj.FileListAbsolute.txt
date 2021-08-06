@@ -1,0 +1,7 @@
+D:\test\.NET\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe.config
+D:\test\.NET\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe
+D:\test\.NET\ISPSolutionApp\bin\Debug\ISPSolutionApp.pdb
+D:\test\.NET\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.AssemblyReference.cache
+D:\test\.NET\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\ISPSolutionApp\obj\Debug\ISPSolutionApp.exe
+D:\test\.NET\ISPSolutionApp\obj\Debug\ISPSolutionApp.pdb
